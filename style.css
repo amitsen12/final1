@@ -1,0 +1,58 @@
+.bgimg{
+	background-image: url(file://localhost/C:/Users/Alok/Desktop/final/1.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 700px;
+}
+.headerset{
+	padding-top: 250px;
+	box-sizing: border-box;
+}
+.headerset h2{
+	font-size: 22px;
+}
+.headerset h1{
+	font-size: 42px;
+	font-weight: bold;
+}
+.services{
+	padding: 100px 0px 60px;
+	height: 700px;
+
+}
+.rowsetting{
+	margin: 80px 0px !important;
+}
+.imgsetting h1{
+color: #ff0000;
+}
+.plans h1{
+	color: #ff0000;
+}
+.imgsetting h3{
+	color: #000000;
+}
+.setting{
+	padding: 100px 0px 60px;
+	height: 200px;
+	margin-bottom: 600px;
+
+
+}
+.gympictures h1{
+color: #000000;
+font-weight: bold;
+}
+.team{
+	height: 600px;
+	padding: 100px 0px 60px;
+	width: 100%;
+}
+.team h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+.teamsetting{
+	margin-top: 50px;
+}
